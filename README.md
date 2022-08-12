@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya-goswami
 - 👀 I’m interested in Programming,Exploring New Technologies
-- 🌱 I’m currently learning Python and trying to master it and move upto the Advance leve
+- 🌱 I’m currently learning Python and trying to master it and move upto the Advance level
 - 💞️ I’m looking to collaborate on anything related to programming or tech
 - 📫 How to reach me : you can send me an email at adityagoswami2001@gmail.com
 
